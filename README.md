@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC Americana Ministro Ralph Biasi.
 - 💼 Atualmente buscando uma oportidade de estágio.
-- 🌱 Desenvolvendo projetos pessoais e prendendo mais sobre Python e Front-end.
+- 🌱 Desenvolvendo projetos pessoais e aprendendo mais a cada dia.
 
 
 <br/>
