@@ -33,8 +33,8 @@
 ![MSPowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MSWord](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-179ff1?style=for-the-badge&logoColor=black) 
-![VS](https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&logoColor=black)
-
+![VS](https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-D83B01?style=for-the-badge&logo=postman&logoColor=white)
 
 <br/>
 
